@@ -1,0 +1,12 @@
+Using default input encoding: UTF-8
+Loaded 5 password hashes with no different salts (Raw-MD5 [MD5 256/256 AVX2 8x3])
+Warning: no OpenMP support for this hash type, consider --fork=2
+Press 'q' or Ctrl-C to abort, almost any other key for status
+123456           (?)     
+letmein          (?)     
+password123      (?)     
+P@ssw0rd         (?)     
+admin            (?)     
+5g 0:00:00:00 DONE (2025-09-14 01:44) 6.756g/s 26983p/s 26983c/s 41513C/s 150588..jonel
+Use the "--show --format=Raw-MD5" options to display all of the cracked passwords reliably
+Session completed. 
